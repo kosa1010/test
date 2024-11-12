@@ -3,7 +3,12 @@ I przedrzeźnia ogrodniczkę.
 Jak pan może,
 Panie pomidorze?!
 
+<<<<<<< HEAD
 Groch zzieleniał aż ze złości:
 — Że też nie wstyd jest waszmości!
+=======
+Rzepa także go zagadnie:
+— Fe! Niedobrze! Fe! Nieładnie!
+>>>>>>> 12353198bc535e6860c4663e8ee155679fdbf2b5
 Jak pan może,
 Panie pomidorze?!
